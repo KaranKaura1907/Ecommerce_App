@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Kishu@3123",
+    "database": "Ecommerce_API_Database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql6498260",
+    "password": "9N1ab36UB9",
+    "database": "sql6498260",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
